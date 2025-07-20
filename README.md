@@ -16,5 +16,7 @@ Temperature monitoring systems are widely used in industrial, agricultural, and 
 
 #input
 
+https://github.com/sai5831/temperature-monitoring-system/issues/1#issue-3246342554
+
 #output
 
