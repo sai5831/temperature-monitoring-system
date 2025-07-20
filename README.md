@@ -20,4 +20,4 @@ https://github.com/sai5831/temperature-monitoring-system/issues/1#issue-32463425
 
 #output
 
-<img width="450" height="353" alt="Image" src="https://github.com/user-attachments/assets/e07a59db-0db3-43f8-96a0-fbc6ce5daa36" />
+
